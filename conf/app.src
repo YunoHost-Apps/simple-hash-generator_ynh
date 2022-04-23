@@ -1,5 +1,5 @@
 SOURCE_URL=https://github.com/pRizz/Simple-Hash-Generator/releases/download/v1/Simple-Hash-Generator.zip
-SOURCE_SUM=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+SOURCE_SUM=10935b7973348ceeca9552c7f7149a29973f76ab441f908d55a9d6bdaff66f3d
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=false
