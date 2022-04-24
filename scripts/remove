@@ -116,10 +116,10 @@ ynh_remove_nginx_config
 #=================================================
 # REMOVE FAIL2BAN CONFIGURATION
 #=================================================
-ynh_script_progression --message="Removing Fail2Ban configuration..." --time --weight=1
+# ynh_script_progression --message="Removing Fail2Ban configuration..." --time --weight=1
 
-# Remove the dedicated Fail2Ban config
-ynh_remove_fail2ban_config
+# # Remove the dedicated Fail2Ban config
+# ynh_remove_fail2ban_config
 
 #=================================================
 # SPECIFIC REMOVE
@@ -131,11 +131,11 @@ ynh_remove_fail2ban_config
 # Remove a cron file
 # ynh_secure_remove --file="/etc/cron.d/$app"
 
-# Remove a directory securely
-ynh_secure_remove --file="/etc/$app"
+# # Remove a directory securely
+# ynh_secure_remove --file="/etc/$app"
 
-# Remove the log files
-ynh_secure_remove --file="/var/log/$app"
+# # Remove the log files
+# ynh_secure_remove --file="/var/log/$app"
 
 #=================================================
 # GENERIC FINALIZATION
