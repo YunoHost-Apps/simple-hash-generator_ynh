@@ -1,20 +1,20 @@
 {
     "name": "Simple-Hash-Generator",
-    "id": "Simple-Hash-Generator",
+    "id": "simple-hash-generator",
     "packaging_format": 1,
     "description": {
-        "en": "A simple hash generator utilizing a collection of popular and useful hash functions",
-        "fr": "Un générateur de hachage simple utilisant une collection de fonctions de hachage populaires et utiles"
+        "en": "Simple hash generator utilizing a collection of popular and useful hash functions",
+        "fr": "Générateur de hachage simple utilisant une collection de fonctions de hachage populaires et utiles"
     },
     "version": "1.0~ynh1",
     "url": "https://prizz.github.io/Simple-Hash-Generator/",
     "upstream": {
-        "license": "MIT License",
+        "license": "MIT",
         "website": "https://prizz.github.io/Simple-Hash-Generator/",
         "demo": "https://prizz.github.io/Simple-Hash-Generator/",
         "code": "https://github.com/pRizz/Simple-Hash-Generator"
     },
-    "license": "MIT License",
+    "license": "MIT",
     "maintainer": {
         "name": "Jarod5001",
         "email": "john.doe@example.com"
