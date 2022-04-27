@@ -5,8 +5,8 @@ It shall NOT be edited by hand.
 
 # Simple-Hash-Generator for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/Simple-Hash-Generator.svg)](https://dash.yunohost.org/appci/app/Simple-Hash-Generator) ![](https://ci-apps.yunohost.org/ci/badges/Simple-Hash-Generator.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/Simple-Hash-Generator.maintain.svg)  
-[![Install Simple-Hash-Generator with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=Simple-Hash-Generator)
+[![Integration level](https://dash.yunohost.org/integration/simple-hash-generator.svg)](https://dash.yunohost.org/appci/app/simple-hash-generator) ![](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.maintain.svg)  
+[![Install Simple-Hash-Generator with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=simple-hash-generator)
 
 *[Lire ce readme en français.](./README_fr.md)*
 
@@ -44,18 +44,18 @@ This project is hosted on GitHub at https://github.com/pRizz/Simple-Hash-Generat
 
 * Official app website: https://prizz.github.io/Simple-Hash-Generator/
 * Upstream app code repository: https://github.com/pRizz/Simple-Hash-Generator
-* YunoHost documentation for this app: https://yunohost.org/app_Simple-Hash-Generator
-* Report a bug: https://github.com/YunoHost-Apps/Simple-Hash-Generator_ynh/issues
+* YunoHost documentation for this app: https://yunohost.org/app_simple-hash-generator
+* Report a bug: https://github.com/YunoHost-Apps/simple-hash-generator_ynh/issues
 
 ## Developer info
 
-Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/Simple-Hash-Generator_ynh/tree/testing).
+Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/simple-hash-generator_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
 ```
-sudo yunohost app install https://github.com/YunoHost-Apps/Simple-Hash-Generator_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/simple-hash-generator_ynh/tree/testing --debug
 or
-sudo yunohost app upgrade Simple-Hash-Generator -u https://github.com/YunoHost-Apps/Simple-Hash-Generator_ynh/tree/testing --debug
+sudo yunohost app upgrade simple-hash-generator -u https://github.com/YunoHost-Apps/simple-hash-generator_ynh/tree/testing --debug
 ```
 
 **More info regarding app packaging:** https://yunohost.org/packaging_apps
