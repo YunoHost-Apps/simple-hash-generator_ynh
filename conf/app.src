@@ -1,7 +1,6 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/pRizz/Simple-Hash-Generator/releases/download/v1/Simple-Hash-Generator.zip
+SOURCE_SUM=10935b7973348ceeca9552c7f7149a29973f76ab441f908d55a9d6bdaff66f3d
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=false
 SOURCE_EXTRACT=true
