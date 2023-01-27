@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 A simple hash generator utilizing a collection of popular and useful hash functions
 
 
-**Version incluse :** 1.0~ynh1
+**Version incluse :** 1.0~ynh2
 
 **Démo :** https://prizz.github.io/Simple-Hash-Generator/
 
@@ -32,7 +32,6 @@ All hashing is done directly in the browser. Your data is not sent to any server
 
 ## Documentations et ressources
 
-* Site officiel de l’app : <https://prizz.github.io/Simple-Hash-Generator/>
 * Dépôt de code officiel de l’app : <https://github.com/pRizz/Simple-Hash-Generator>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_simple-hash-generator>
 * Signaler un bug : <https://github.com/YunoHost-Apps/simple-hash-generator_ynh/issues>
