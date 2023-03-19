@@ -25,7 +25,7 @@ A simple hash generator utilizing a collection of popular and useful hash functi
 
 ## Captures d’écran
 
-![Capture d’écran de Simple-Hash-Generator](./doc/screenshots/example.jpg)
+![Capture d’écran de Simple-Hash-Generator](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 
