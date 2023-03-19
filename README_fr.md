@@ -27,12 +27,9 @@ A simple hash generator utilizing a collection of popular and useful hash functi
 
 ![Capture d’écran de Simple-Hash-Generator](./doc/screenshots/example.jpg)
 
-## Avertissements / informations importantes
-
-All hashing is done directly in the browser. Your data is not sent to any server, ever. If you are skeptical, which I respect, I recommend [downloading the latest release here](https://github.com/pRizz/Simple-Hash-Generator/releases), turning off your internet, unzip the release, open index.html, check out the network debugger, and see that hashing still works. Or if you are a developer, you can audit the [source code here](https://github.com/pRizz/Simple-Hash-Generator).
-
 ## Documentations et ressources
 
+* Site officiel de l’app : <https://prizz.github.io/Simple-Hash-Generator/>
 * Dépôt de code officiel de l’app : <https://github.com/pRizz/Simple-Hash-Generator>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_simple-hash-generator>
 * Signaler un bug : <https://github.com/YunoHost-Apps/simple-hash-generator_ynh/issues>
