@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # Simple-Hash-Generator for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/simple-hash-generator.svg)](https://dash.yunohost.org/appci/app/simple-hash-generator) ![Working status](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.maintain.svg)
+
 [![Install Simple-Hash-Generator with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=simple-hash-generator)
 
 *[Lire ce readme en français.](./README_fr.md)*
