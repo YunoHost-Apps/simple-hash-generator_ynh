@@ -16,7 +16,7 @@ code = "https://github.com/pRizz/Simple-Hash-Generator"
 website = "https://prizz.github.io/Simple-Hash-Generator/"
 
 [integration]
-yunohost = ">= 11.1.15"
+yunohost = ">= 11.1.19"
 architectures = "all"
 multi_instance = true
 ldap = false
