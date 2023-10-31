@@ -31,7 +31,7 @@ A simple hash generator utilizing a collection of popular and useful hash functi
 
 * Site officiel de l’app : <https://prizz.github.io/Simple-Hash-Generator/>
 * Dépôt de code officiel de l’app : <https://github.com/pRizz/Simple-Hash-Generator>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_simple-hash-generator>
+* YunoHost Store: <https://apps.yunohost.org/app/simple-hash-generator>
 * Signaler un bug : <https://github.com/YunoHost-Apps/simple-hash-generator_ynh/issues>
 
 ## Informations pour les développeurs
