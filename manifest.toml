@@ -16,7 +16,7 @@ code = "https://github.com/pRizz/Simple-Hash-Generator"
 website = "https://prizz.github.io/Simple-Hash-Generator/"
 
 [integration]
-yunohost = ">= 11.1.15"
+yunohost = ">= 11.1.19"
 architectures = "all"
 multi_instance = true
 ldap = false
@@ -42,6 +42,8 @@ ram.runtime = "50M"
         url = "https://github.com/pRizz/Simple-Hash-Generator/releases/download/v1/Simple-Hash-Generator.zip"
         sha256 = "10935b7973348ceeca9552c7f7149a29973f76ab441f908d55a9d6bdaff66f3d"
         in_subdir = false
+        autoupdate.strategy = "latest_github_release"
+        autoupdate.asset = "Simple-Hash-Generator.zip"
 
     [resources.system_user]
 
