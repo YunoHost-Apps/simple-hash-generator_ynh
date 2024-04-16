@@ -9,7 +9,7 @@ It shall NOT be edited by hand.
 
 [![Install Simple-Hash-Generator with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=simple-hash-generator)
 
-*[Read this README is other languages.](./ALL_README.md)*
+*[Read this README in other languages.](./ALL_README.md)*
 
 > *This package allows you to install Simple-Hash-Generator quickly and simply on a YunoHost server.*  
 > *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
@@ -19,7 +19,7 @@ It shall NOT be edited by hand.
 A simple hash generator utilizing a collection of popular and useful hash functions
 
 
-**Shipped version:** 1.0~ynh2
+**Shipped version:** 1.0~ynh3
 
 **Demo:** <https://prizz.github.io/Simple-Hash-Generator/>
 

@@ -19,7 +19,7 @@ Il NE doit PAS être modifié à la main.
 A simple hash generator utilizing a collection of popular and useful hash functions
 
 
-**Version incluse :** 1.0~ynh2
+**Version incluse :** 1.0~ynh3
 
 **Démo :** <https://prizz.github.io/Simple-Hash-Generator/>
 
