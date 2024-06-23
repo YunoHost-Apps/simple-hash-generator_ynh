@@ -27,6 +27,10 @@ A simple hash generator utilizing a collection of popular and useful hash functi
 
 ![Screenshot of Simple-Hash-Generator](./doc/screenshots/screenshot.png)
 
+## :red_circle: Antifeatures
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+
 ## Documentation and resources
 
 - Official app website: <https://prizz.github.io/Simple-Hash-Generator/>

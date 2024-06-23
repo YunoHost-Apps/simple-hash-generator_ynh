@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 Simple-Hash-Generator
+# YunoHost 上的 Simple-Hash-Generator
 
 [![集成程度](https://dash.yunohost.org/integration/simple-hash-generator.svg)](https://dash.yunohost.org/appci/app/simple-hash-generator) ![工作状态](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.maintain.svg)
 
@@ -26,6 +26,10 @@ A simple hash generator utilizing a collection of popular and useful hash functi
 ## 截图
 
 ![Simple-Hash-Generator 的截图](./doc/screenshots/screenshot.png)
+
+## :red_circle: 负面特征
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
 
 ## 文档与资源
 

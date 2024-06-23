@@ -27,6 +27,10 @@ A simple hash generator utilizing a collection of popular and useful hash functi
 
 ![Simple-Hash-Generator(r)en pantaila-argazkia](./doc/screenshots/screenshot.png)
 
+## :red_circle: Ezaugarri zalantzagarriak
+
+- **Jatorrizko garapena utzita**: Software honek ez du arduradunik. Denborak aurrera egin ahala funtzionatzeari utziko dio, konpondu gabeko segurtasun arazoak izango ditu, etab.
+
 ## Dokumentazioa eta baliabideak
 
 - Aplikazioaren webgune ofiziala: <https://prizz.github.io/Simple-Hash-Generator/>
