@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # Simple-Hash-Generator para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/simple-hash-generator.svg)](https://dash.yunohost.org/appci/app/simple-hash-generator) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/simple-hash-generator.svg)](https://ci-apps.yunohost.org/ci/apps/simple-hash-generator/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.maintain.svg)
 
 [![Instalar Simple-Hash-Generator con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=simple-hash-generator)
 
@@ -19,7 +19,7 @@ No se debe editar a mano.
 A simple hash generator utilizing a collection of popular and useful hash functions
 
 
-**Versión actual:** 1.0~ynh3
+**Versión actual:** 1.0~ynh4
 
 **Demo:** <https://prizz.github.io/Simple-Hash-Generator/>
 
@@ -40,7 +40,7 @@ A simple hash generator utilizing a collection of popular and useful hash functi
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/simple-hash-generator_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/simple-hash-generator_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 

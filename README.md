@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Simple-Hash-Generator for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/simple-hash-generator.svg)](https://dash.yunohost.org/appci/app/simple-hash-generator) ![Working status](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.maintain.svg)
+[![Integration level](https://dash.yunohost.org/integration/simple-hash-generator.svg)](https://ci-apps.yunohost.org/ci/apps/simple-hash-generator/) ![Working status](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/simple-hash-generator.maintain.svg)
 
 [![Install Simple-Hash-Generator with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=simple-hash-generator)
 
@@ -19,7 +19,7 @@ It shall NOT be edited by hand.
 A simple hash generator utilizing a collection of popular and useful hash functions
 
 
-**Shipped version:** 1.0~ynh3
+**Shipped version:** 1.0~ynh4
 
 **Demo:** <https://prizz.github.io/Simple-Hash-Generator/>
 
