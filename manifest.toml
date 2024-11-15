@@ -5,7 +5,7 @@ name = "Simple-Hash-Generator"
 description.en = "Simple hash generator utilizing a collection of popular and useful hash functions"
 description.fr = "Générateur de hachage simple utilisant une collection de fonctions de hachage populaires et utiles"
 
-version = "1.0~ynh3"
+version = "1.0~ynh4"
 
 maintainers = ["Jarod5001"]
 
